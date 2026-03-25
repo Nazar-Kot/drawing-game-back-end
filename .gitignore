@@ -1,0 +1,11 @@
+# .NET
+bin/
+obj/
+*.user
+
+# Visual Studio
+.vs/
+
+# Environment
+.env
+.env.local
